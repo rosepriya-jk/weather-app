@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A real-time waether forecasting app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosepriya-jk/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "forecasting",
+    "realtime",
+    "city",
+    "based"
+  ],
+  "author": "Rosepriya J Kannath",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  }
+}
